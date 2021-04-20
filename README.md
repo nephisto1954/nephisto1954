@@ -12,7 +12,7 @@ Skills: REACT / JS / HTML / CSS
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nephisto1954&include_all_commits=true&count_private=true&bg_color=45,1B676B,60B99A&title_color=fff&text_color=fff&icon_color=333&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' style="backgroundColor:#1B676B" alt='github' height='40'>](https://github.com/nephisto1954)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tanguy-chennaux/)   
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' style="background:#1B676B" alt='github' height='40'>](https://github.com/nephisto1954)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tanguy-chennaux/)   
 
 ![](https://komarev.com/ghpvc/?username=nephisto1954&color=1B676B)
 
