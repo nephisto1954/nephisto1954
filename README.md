@@ -4,14 +4,13 @@ Dear **recruiters**, I enjoy reading your daily mid-level/senior job description
 
 Skills: REACT / JS / HTML / CSS
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nephisto1954&layout=compact&bg_color=45,1B676B,60B99A&title_color=fff&text_color=fff&hide=Objective-C)](https://github.com/anuraghazra/github-readme-stats)
+
 - 🔭 I’m currently working on revamping my personal website 
 - 🌱 I’m currently learning Python and Typescript 
 - ⚡ Fun fact: I lived in 5 countries and I am a Scuba-diving Instructor 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nephisto1954&include_all_commits=true&count_private=true&bg_color=45,1B676B,60B99A&title_color=fff&text_color=fff&icon_color=333&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nephisto1954&layout=compact&bg_color=45,1B676B,60B99A&title_color=fff&text_color=fff&hide=Objective-C)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nephisto1954)  
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nephisto1954)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tanguy-chennaux/)   
 
